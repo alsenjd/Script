@@ -1,0 +1,5 @@
+다음 OpenAPI에서 정보 허용권에 대한 접근을 신청하고 허락 받았습니다.
+
+SERVER = apis.daum.net/local/v1
+
+REGKEY = 2839a18e2245d2a192247dd7d765e4c7
