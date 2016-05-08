@@ -1,0 +1,21 @@
+def myURIBuilder(self,sellection = 1):
+        if(sellection == 1):
+            if(sellection == 1):
+                self.queryParams = '?' + urlencode({ quote_plus('query') :self.query,
+                               quote_plus('location') : self.location,
+                               quote_plus('radius') : self.radius,
+                               quote_plus('count') : self.count,
+                               quote_plus('sort') : self.sort,
+                               quote_plus('page') : self.page, 
+                               quote_plus('apikey'):self.regKey
+                                })
+        elif(sellection == 2):
+            if(sellection == 1):
+                self.queryParams = '?' + urlencode({ quote_plus('query') : '¼¾Å¸',
+                               quote_plus('location') : self.location,
+                               quote_plus('radius') : self.radius,
+                               quote_plus('count') : self.count,
+                               quote_plus('sort') : self.sort,
+                               quote_plus('page') : self.page, 
+                               quote_plus('apikey'):self.regKey
+                                })
